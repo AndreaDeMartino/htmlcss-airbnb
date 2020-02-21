@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container{
+position:relative;
+height: 100vh;
+background-color:grey;
+}
+
+.imgstyle{
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top:10px;
+}
+.location1{
+  background-image: url('../img/russia.jpg');
+}
+
+.location2{
+  background-image: url('../img/newyork.jpg');
+}
+
+.location3{
+  background-image: url('../img/giappone.jpg');
+
+}
