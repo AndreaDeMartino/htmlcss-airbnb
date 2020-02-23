@@ -14,13 +14,13 @@
   border-bottom: 2px solid white;
 }
 
-/* Logo Boolean */
 #logobol{
   width: 150px;
   vertical-align: middle;
   display: inline-block;
   background-size: cover;
   background-repeat: no-repeat;
+
 }
 
 #lista{
@@ -51,6 +51,8 @@ a:hover{
   text-decoration: underline;
 }
 
+
+
 /* Contenitore Principale */
 #container{
 position: relative;
@@ -60,7 +62,7 @@ height: 100vh;
 /* Stile Immagini */
 .imgstyle{
   position: relative;
-  height: 100%;
+  height: 30%;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -92,7 +94,7 @@ height: 100vh;
 .text{
   position: absolute;
   font-family: 'Orbitron';
-  font-size: 60px;
+  font-size: 50px;
   text-shadow: 4px 2px black;
   color: white;
   top: 50%;
